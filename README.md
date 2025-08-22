@@ -15,43 +15,60 @@
 🌐 Admin Dashboard (Manage products, users, and orders)
 
 
-⚙️ Installation
-
-Clone the repository:
-
-git clone https://github.com/Chethan2109/e-commerces-website.git
-
-cd e-commerces-website
-
-Install dependencies:
-
-npm install    # or pip install -r requirements.txt
 
 
-Set environment variables:
 
-🛠️ Deployment
+## Clone the repository:
 
-Frontend → Vercel / Netlify
+To install **E-Commerces-website**, follow these steps:
 
-Backend → Heroku / AWS / Render
+Linux and macOS:
 
-Database → MongoDB Atlas / ElephantSQL / RDS
+```bash
+sudo git clone https://github.com/Chethan2109/E-Commerces-website.git
+```
 
-👨‍💻 Contributing
+Windows:
 
-Contributions are always welcome!
+```bash
+git clone https://github.com/Chethan2109/E-Commerces-website.git
+```
+📸 Screenshots
+# E-CommerceWebsite
+ A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+ 
+ 
+ 
+### Home page
+![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
 
-Fork the repo
 
-Create a new branch (feature-xyz)
 
-Commit your changes
+### Content Description page
+![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
 
-Open a Pull Request 🚀
 
-📜 License
 
-This project is licensed under the MIT License – feel free to use and modify it.
+### Ordered List page
+![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
 
-Open-source community ❤️
+
+
+### Order confirm page
+![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
