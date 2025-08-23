@@ -40,22 +40,24 @@ git clone https://github.com/Chethan2109/E-Commerces-website.git
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![1]<img width="1917" height="924" alt="image1" src="https://github.com/user-attachments/assets/e3a91295-55d4-4474-8a41-cba32b4d3440" />
+
 
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
-
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/135647fc-79dc-4a36-9655-06e015b40487" />
 
 
 ### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+<img width="1916" height="911" alt="Screenshot 2025-08-23 115008" src="https://github.com/user-attachments/assets/1c9029e0-b53b-4ca7-8359-86fe4030474e" />
+
 
 
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+<img width="1920" height="1200" alt="65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04" src="https://github.com/user-attachments/assets/f2677d47-125b-41a0-8863-0c1ab90e024c" />
+
 
 
 
